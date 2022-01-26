@@ -1,0 +1,47 @@
+Source:,D:\Github\kicad\Arduino Nano\Arduino Nano.kicad_sch,,,,,
+,,,,,,
+Date:,16-01-2022 12:07,,,,,
+,,,,,,
+Tool:,Eeschema (6.0.0),,,,,
+,,,,,,
+Generator:,C:\Program Files\KiCad\6.0\bin\scripting\plugins/bom_csv_grouped_by_value_with_fp.py,,,,,
+,,,,,,
+Component Count:,31,,,,,
+,,,,,,
+Ref,Qnty,Value,Cmp name,Footprint,Description,Vendor
+,,,,,,
+"C1, C6, C7, ",3,4.7uF,capacitor_tantalum,,Capacitor 4.7uF 10V 10% Tantalum Case A ,Mouser
+,,,,,,
+"C2, C5, C8, C9, C10, ",5,0.1uF,capacitor_0805,,Capacitor 0.1uF 50V 10% Ceramic X7R 0805,Mouser
+,,,,,,
+"C3, C4, ",2,15pF,Capacitor_NOP{slash}COG,,"Capacitor, 18pF 50V 5%",Mouser
+,,,,,,
+"D1, ",1,Schottky_diode,Schottky_diode,,Diode Schottky 0.5A 20V ,Mouser
+,,,,,,
+"J1, J3, ",2,15-pin_Header,15-pin_Header,,Headers 36PS 1 Row ,Mouser
+,,,,,,
+"J2, ",1,6_pin_header,6_pin_header,,Headers 72PS 2 Rows ,Mouser
+,,,,,,
+"J4, ",1,micro_usb_b,micro_usb_b,,Connector Mini B Recept,
+,,,,,,
+"LD1, ",1,blue_led,blue_led,,LED Super Bright BLUE 80mcd 470nm 110degree 0805,Mouser
+,,,,,,
+"LD2, ",1,orange_led,orange_led,,LED Super Bright ORANGE 160mcd 601nm 110degree 0805,Mouser
+,,,,,,
+"LD3, ",1,red_led,red_led,,LED Super Bright RED 100mcd 640nm 120degree 0805,Mouser
+,,,,,,
+"LD4, ",1,green_led,green_led,,LED Super Bright GREEN 50mcd 570nm 110degree 0805,Mouser
+,,,,,,
+"R1, R6, R7, ",3,1K,Resistor_1K,,Resistor Pack 1K +/- 5% 62.5mW 4RES SMD,Mouser
+,,,,,,
+"R2, R3, R4, R5, ",4,680,Resistor_680,,Resistor Pack 1K +/- 5% 62.5mW 4RES SMD,Mouser
+,,,,,,
+"SW1, ",1,Switch,Switch,,Switch Momentary Tact SPST 150gf 3.0x2.5mm,Digikey
+,,,,,,
+"U1, ",1,Voltage_regulator,Voltage_regulator,,IC Voltage regulator 5V 500mA SOT 223,Mouser
+,,,,,,
+"U2, ",1,ATmega168,ATmega168,,IC Microcontroller RISC 16kB Flash 0.5kB EEPROM 23 I/O Pins ,Mouser
+,,,,,,
+"U3, ",1,usb_to_serial,usb_to_serial,,IC USB to SERIAL UART 28 Pins SSOP,Mouser
+,,,,,,
+"Y1, ",1,16MHz,crystal_oscillator,,Cystal 16MHz +/-20ppm!HC 49/US Low Profile ,Mouser

@@ -1,0 +1,1200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>D:\Github\kicad\Arduino Nano\Arduino Nano.kicad_sch</source>
+    <date>16-01-2022 12:11:22</date>
+    <tool>Eeschema (6.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Arduino Nano</title>
+        <company>Self</company>
+        <rev>V01</rev>
+        <date>2022-01-15</date>
+        <source>Arduino Nano.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value="Author: Sunder"/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>4.7uF</value>
+      <datasheet>https://www.mouser.in/datasheet/2/212/1/KEM_T2005_T491-1093550.pdf</datasheet>
+      <fields>
+        <field name="Part Number">80-T491A475K010</field>
+        <field name="Vendor">Mouser</field>
+      </fields>
+      <libsource lib="" part="capacitor_tantalum_1" description="Capacitor 4.7uF 10V 10% Tantalum Case A "/>
+      <property name="Vendor" value="Mouser"/>
+      <property name="Part Number" value="80-T491A475K010"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7dd9133d-e655-40d8-a149-6cfb9b7e7095</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1uF</value>
+      <datasheet>https://www.mouser.in/datasheet/2/212/KEM_C1002_X7R_SMD-1102033.pdf</datasheet>
+      <fields>
+        <field name="Part number">80-C0805C104K5R</field>
+        <field name="Vendor">Mouser</field>
+      </fields>
+      <libsource lib="" part="capacitor_0805_2" description="Capacitor 0.1uF 50V 10% Ceramic X7R 0805"/>
+      <property name="Vendor" value="Mouser"/>
+      <property name="Part number" value="80-C0805C104K5R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ed91e0b-5ad2-4c58-aaa2-7178e3bc1b76</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>15pF</value>
+      <datasheet>https://www.mouser.in/datasheet/2/212/KEM_C1003_C0G_SMD-1101588.pdf</datasheet>
+      <fields>
+        <field name="Part Number">80-C0805C180J5G</field>
+        <field name="Vendor">Mouser</field>
+      </fields>
+      <libsource lib="Arduino Nano" part="Capacitor_NOP{slash}COG" description="Capacitor, 18pF 50V 5%"/>
+      <property name="Vendor" value="Mouser"/>
+      <property name="Part Number" value="80-C0805C180J5G"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>322db06b-cb3e-47e0-96ea-8673039001bd</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>15pF</value>
+      <datasheet>https://www.mouser.in/datasheet/2/212/KEM_C1003_C0G_SMD-1101588.pdf</datasheet>
+      <fields>
+        <field name="Part Number">80-C0805C180J5G</field>
+        <field name="Vendor">Mouser</field>
+      </fields>
+      <libsource lib="Arduino Nano" part="Capacitor_NOP{slash}COG" description="Capacitor, 18pF 50V 5%"/>
+      <property name="Vendor" value="Mouser"/>
+      <property name="Part Number" value="80-C0805C180J5G"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>862b8764-2f9a-419c-b686-a439b109045d</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1uF</value>
+      <datasheet>https://www.mouser.in/datasheet/2/212/KEM_C1002_X7R_SMD-1102033.pdf</datasheet>
+      <fields>
+        <field name="Part number">80-C0805C104K5R</field>
+        <field name="Vendor">Mouser</field>
+      </fields>
+      <libsource lib="Arduino Nano" part="capacitor_0805" description="Capacitor 0.1uF 50V 10% Ceramic X7R 0805"/>
+      <property name="Vendor" value="Mouser"/>
+      <property name="Part number" value="80-C0805C104K5R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>759863a5-7f04-4ccb-8eca-c2f5c73399b5</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>4.7uF</value>
+      <datasheet>https://www.mouser.in/datasheet/2/212/1/KEM_T2005_T491-1093550.pdf</datasheet>
+      <fields>
+        <field name="Part Number">80-T491A475K010</field>
+        <field name="Vendor">Mouser</field>
+      </fields>
+      <libsource lib="" part="capacitor_tantalum_2" description="Capacitor 4.7uF 10V 10% Tantalum Case A "/>
+      <property name="Vendor" value="Mouser"/>
+      <property name="Part Number" value="80-T491A475K010"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fde4533c-4565-4847-9b4e-34fca2a9d78a</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>4.7uF</value>
+      <datasheet>https://www.mouser.in/datasheet/2/212/1/KEM_T2005_T491-1093550.pdf</datasheet>
+      <fields>
+        <field name="Part Number">80-T491A475K010</field>
+        <field name="Vendor">Mouser</field>
+      </fields>
+      <libsource lib="Arduino Nano" part="capacitor_tantalum" description="Capacitor 4.7uF 10V 10% Tantalum Case A "/>
+      <property name="Vendor" value="Mouser"/>
+      <property name="Part Number" value="80-T491A475K010"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>089f8bfc-36e1-4425-86a3-c8cb578caa23</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>0.1uF</value>
+      <datasheet>https://www.mouser.in/datasheet/2/212/KEM_C1002_X7R_SMD-1102033.pdf</datasheet>
+      <fields>
+        <field name="Part number">80-C0805C104K5R</field>
+        <field name="Vendor">Mouser</field>
+      </fields>
+      <libsource lib="Arduino Nano" part="capacitor_0805" description="Capacitor 0.1uF 50V 10% Ceramic X7R 0805"/>
+      <property name="Vendor" value="Mouser"/>
+      <property name="Part number" value="80-C0805C104K5R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b97362c-e2f5-4d5b-8d05-3455ef5d5eb9</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>0.1uF</value>
+      <datasheet>https://www.mouser.in/datasheet/2/212/KEM_C1002_X7R_SMD-1102033.pdf</datasheet>
+      <fields>
+        <field name="Part number">80-C0805C104K5R</field>
+        <field name="Vendor">Mouser</field>
+      </fields>
+      <libsource lib="" part="capacitor_0805_1" description="Capacitor 0.1uF 50V 10% Ceramic X7R 0805"/>
+      <property name="Vendor" value="Mouser"/>
+      <property name="Part number" value="80-C0805C104K5R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6542666d-ed9a-429e-a9ed-563252edde74</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>0.1uF</value>
+      <datasheet>https://www.mouser.in/datasheet/2/212/KEM_C1002_X7R_SMD-1102033.pdf</datasheet>
+      <fields>
+        <field name="Part number">80-C0805C104K5R</field>
+        <field name="Vendor">Mouser</field>
+      </fields>
+      <libsource lib="Arduino Nano" part="capacitor_0805" description="Capacitor 0.1uF 50V 10% Ceramic X7R 0805"/>
+      <property name="Vendor" value="Mouser"/>
+      <property name="Part number" value="80-C0805C104K5R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>17e686ea-43de-4012-b45c-eda96a4a15e5</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>Schottky_diode</value>
+      <datasheet>https://www.mouser.in/datasheet/2/308/1/MBR0520LT1_D-2315148.pdf</datasheet>
+      <fields>
+        <field name="Part number">863-MBR0520LT1G</field>
+        <field name="Vendor">Mouser</field>
+      </fields>
+      <libsource lib="Arduino Nano" part="Schottky_diode" description="Diode Schottky 0.5A 20V "/>
+      <property name="Vendor" value="Mouser"/>
+      <property name="Part number" value="863-MBR0520LT1G"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aa3f15fc-9292-422f-8dea-611760646fff</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>15-pin_Header</value>
+      <datasheet>https://www.mouser.in/datasheet/2/185/doc_1806131501164-2449121.pdf</datasheet>
+      <fields>
+        <field name="Part Number">798-A22PA254DSA71</field>
+        <field name="Vendor">Mouser</field>
+      </fields>
+      <libsource lib="Arduino Nano" part="15-pin_Header" description="Headers 36PS 1 Row "/>
+      <property name="Vendor" value="Mouser"/>
+      <property name="Part Number" value="798-A22PA254DSA71"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b22242e4-117b-4904-89f4-7246dcb75328</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>6_pin_header</value>
+      <datasheet>https://www.mouser.in/datasheet/2/185/doc_1806131501164-2449121.pdf</datasheet>
+      <fields>
+        <field name="Part Number">798-A22PA254DSA71</field>
+        <field name="Vendor">Mouser</field>
+      </fields>
+      <libsource lib="Arduino Nano" part="6_pin_header" description="Headers 72PS 2 Rows "/>
+      <property name="Vendor" value="Mouser"/>
+      <property name="Part Number" value="798-A22PA254DSA71"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f286079b-1f98-48d5-855b-204cf778a825</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>15-pin_Header</value>
+      <datasheet>https://www.mouser.in/datasheet/2/185/doc_1806131501164-2449121.pdf</datasheet>
+      <fields>
+        <field name="Part Number">798-A22PA254DSA71</field>
+        <field name="Vendor">Mouser</field>
+      </fields>
+      <libsource lib="Arduino Nano" part="15-pin_Header" description="Headers 36PS 1 Row "/>
+      <property name="Vendor" value="Mouser"/>
+      <property name="Part Number" value="798-A22PA254DSA71"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b2472811-bc84-43f4-a165-b9adf2eee512</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>micro_usb_b</value>
+      <datasheet>https://app.adam-tech.com/products/download/data_sheet/195766/mcr-b-s-ra-tsmt-np-cs4-tr-data-sheet.pdf</datasheet>
+      <fields>
+        <field name="Part number">MCR-B-S-RA-TSMT-NP-CS4-T/R</field>
+        <field name="vVendor ">digikey</field>
+      </fields>
+      <libsource lib="Arduino Nano" part="micro_usb_b" description="Connector Mini B Recept"/>
+      <property name="vVendor " value="digikey"/>
+      <property name="Part number" value="MCR-B-S-RA-TSMT-NP-CS4-T/R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a955df1b-e6ae-418a-86dc-d404335b128e</tstamps>
+    </comp>
+    <comp ref="LD1">
+      <value>blue_led</value>
+      <datasheet>https://www.mouser.in/datasheet/2/239/Lite-On-LTST-C170TBKT-1175372.pdf</datasheet>
+      <fields>
+        <field name="Part Number">859-LTST-C170TBKT</field>
+        <field name="Vendor">Mouser</field>
+      </fields>
+      <libsource lib="Arduino Nano" part="blue_led" description="LED Super Bright BLUE 80mcd 470nm 110degree 0805"/>
+      <property name="Vendor" value="Mouser"/>
+      <property name="Part Number" value="859-LTST-C170TBKT"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02d6678f-95f6-418f-aae6-e433d86c4ebc</tstamps>
+    </comp>
+    <comp ref="LD2">
+      <value>orange_led</value>
+      <datasheet>https://www.mouser.in/datasheet/2/216/APHCM2012SECK-F01-40967.pdf</datasheet>
+      <fields>
+        <field name="Part Number">APHCM2012SECK-F01</field>
+        <field name="Vendor">Mouser</field>
+      </fields>
+      <libsource lib="Arduino Nano" part="orange_led" description="LED Super Bright ORANGE 160mcd 601nm 110degree 0805"/>
+      <property name="Vendor" value="Mouser"/>
+      <property name="Part Number" value="APHCM2012SECK-F01"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e6ac84b0-4980-401a-9e8b-512002c23e00</tstamps>
+    </comp>
+    <comp ref="LD3">
+      <value>red_led</value>
+      <datasheet>https://www.mouser.in/datasheet/2/216/APT2012SRCPRV-56885.pdf</datasheet>
+      <fields>
+        <field name="Part Number">604-APT2012SRCPRV</field>
+        <field name="Vendor">Mouser</field>
+      </fields>
+      <libsource lib="Arduino Nano" part="red_led" description="LED Super Bright RED 100mcd 640nm 120degree 0805"/>
+      <property name="Vendor" value="Mouser"/>
+      <property name="Part Number" value="604-APT2012SRCPRV"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e005121-6483-4891-a8e2-2a543aa5ff92</tstamps>
+    </comp>
+    <comp ref="LD4">
+      <value>green_led</value>
+      <datasheet>https://www.mouser.in/datasheet/2/216/APHCM2012CGCK_F01-34366.pdf</datasheet>
+      <fields>
+        <field name="Part Number">APHCM2012CGCK-F01 </field>
+        <field name="Vendor">Mouser</field>
+      </fields>
+      <libsource lib="Arduino Nano" part="green_led" description="LED Super Bright GREEN 50mcd 570nm 110degree 0805"/>
+      <property name="Vendor" value="Mouser"/>
+      <property name="Part Number" value="APHCM2012CGCK-F01 "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>78da06a7-796c-42e7-92f6-cdd9a5185239</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>680</value>
+      <datasheet>https://www.mouser.in/datasheet/2/54/chp_a-1858677.pdf</datasheet>
+      <fields>
+        <field name="Part Number">652-CHP0805AFX1001EL</field>
+        <field name="Vendor">Mouser</field>
+      </fields>
+      <libsource lib="Arduino Nano" part="Resistor_1K" description="Resistor Pack 1K +/- 5% 62.5mW 4RES SMD"/>
+      <property name="Vendor" value="Mouser"/>
+      <property name="Part Number" value="652-CHP0805AFX1001EL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5058b236-e791-4b7e-8190-152063b837a2</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>1K</value>
+      <datasheet>https://www.mouser.in/datasheet/2/54/chp_a-1858677.pdf</datasheet>
+      <fields>
+        <field name="Part Number">652-CHP0805AFX1001EL</field>
+        <field name="Vendor">Mouser</field>
+      </fields>
+      <libsource lib="Arduino Nano" part="Resistor_1K" description="Resistor Pack 1K +/- 5% 62.5mW 4RES SMD"/>
+      <property name="Vendor" value="Mouser"/>
+      <property name="Part Number" value="652-CHP0805AFX1001EL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>efafb1f6-4bcb-4f2b-8b14-93b678d16b6d</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>1K</value>
+      <datasheet>https://www.mouser.in/datasheet/2/54/chp_a-1858677.pdf</datasheet>
+      <fields>
+        <field name="Part Number">652-CHP0805AFX1001EL</field>
+        <field name="Vendor">Mouser</field>
+      </fields>
+      <libsource lib="" part="Resistor_1K_4" description="Resistor Pack 1K +/- 5% 62.5mW 4RES SMD"/>
+      <property name="Vendor" value="Mouser"/>
+      <property name="Part Number" value="652-CHP0805AFX1001EL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f9bbad39-8cf6-461b-8112-b985007798f5</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>1K</value>
+      <datasheet>https://www.mouser.in/datasheet/2/54/chp_a-1858677.pdf</datasheet>
+      <fields>
+        <field name="Part Number">652-CHP0805AFX1001EL</field>
+        <field name="Vendor">Mouser</field>
+      </fields>
+      <libsource lib="" part="Resistor_1K_1" description="Resistor Pack 1K +/- 5% 62.5mW 4RES SMD"/>
+      <property name="Vendor" value="Mouser"/>
+      <property name="Part Number" value="652-CHP0805AFX1001EL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f4ca1b6b-d533-47f9-9fdb-97a6ce6a5994</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>1K</value>
+      <datasheet>https://www.mouser.in/datasheet/2/54/chp_a-1858677.pdf</datasheet>
+      <fields>
+        <field name="Part Number">652-CHP0805AFX1001EL</field>
+        <field name="Vendor">Mouser</field>
+      </fields>
+      <libsource lib="" part="Resistor_1K_1" description="Resistor Pack 1K +/- 5% 62.5mW 4RES SMD"/>
+      <property name="Vendor" value="Mouser"/>
+      <property name="Part Number" value="652-CHP0805AFX1001EL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>31e31eb1-9086-49b7-b621-06777e10a608</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>680</value>
+      <datasheet>https://www.mouser.in/datasheet/2/54/chp_a-1858677.pdf</datasheet>
+      <fields>
+        <field name="Part Number">652-CHP0805AFX1001EL</field>
+        <field name="Vendor">Mouser</field>
+      </fields>
+      <libsource lib="Arduino Nano" part="Resistor_1K" description="Resistor Pack 1K +/- 5% 62.5mW 4RES SMD"/>
+      <property name="Vendor" value="Mouser"/>
+      <property name="Part Number" value="652-CHP0805AFX1001EL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>503327b1-f039-43b8-89b9-e1e2f9cb0fbc</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>680</value>
+      <datasheet>https://www.mouser.in/datasheet/2/54/chp_a-1858677.pdf</datasheet>
+      <fields>
+        <field name="Part Number">652-CHP0805AFX1001EL</field>
+        <field name="Vendor">Mouser</field>
+      </fields>
+      <libsource lib="Arduino Nano" part="Resistor_1K" description="Resistor Pack 1K +/- 5% 62.5mW 4RES SMD"/>
+      <property name="Vendor" value="Mouser"/>
+      <property name="Part Number" value="652-CHP0805AFX1001EL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df35539e-6eb8-46cd-b35e-0c312928907b</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>Switch</value>
+      <datasheet>https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3u.pdf</datasheet>
+      <fields>
+        <field name="Part Number">B3U-1000P</field>
+        <field name="Vendor">Digikey</field>
+      </fields>
+      <libsource lib="Arduino Nano" part="Switch" description="Switch Momentary Tact SPST 150gf 3.0x2.5mm"/>
+      <property name="Vendor" value="Digikey"/>
+      <property name="Part Number" value="B3U-1000P"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e74a646f-a368-440b-bbe0-d4102df4d413</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>Voltage_regulator</value>
+      <datasheet>https://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&amp;gotoUrl=http%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Fua78m</datasheet>
+      <fields>
+        <field name="Part Number">595-UA78M05CDCYRG3</field>
+        <field name="Vendor">Mouser</field>
+      </fields>
+      <libsource lib="Arduino Nano" part="Voltage_regulator" description="IC Voltage regulator 5V 500mA SOT 223"/>
+      <property name="Vendor" value="Mouser"/>
+      <property name="Part Number" value="595-UA78M05CDCYRG3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c96e976b-20e6-428f-872f-4d97dee9166e</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>ATmega168</value>
+      <datasheet>https://www.mouser.in/datasheet/2/268/Atmel-2545-8-bit-AVR-Microcontroller-ATmega48-88-1-1315326.pdf</datasheet>
+      <fields>
+        <field name="Part Number">556-ATMEGA168-20AU</field>
+        <field name="Vendor">Mouser</field>
+      </fields>
+      <libsource lib="Arduino Nano" part="ATmega168" description="IC Microcontroller RISC 16kB Flash 0.5kB EEPROM 23 I/O Pins "/>
+      <property name="Vendor" value="Mouser"/>
+      <property name="Part Number" value="556-ATMEGA168-20AU"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e31ba313-0add-40a3-8a7f-cd4c405ba338</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>usb_to_serial</value>
+      <datasheet>https://www.mouser.in/datasheet/2/163/DS_FT232R-11534.pdf</datasheet>
+      <fields>
+        <field name="Part Number">895-FT232RL</field>
+        <field name="Vendor">Mouser</field>
+      </fields>
+      <libsource lib="Arduino Nano" part="usb_to_serial" description="IC USB to SERIAL UART 28 Pins SSOP"/>
+      <property name="Vendor" value="Mouser"/>
+      <property name="Part Number" value="895-FT232RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>62ae3a85-03d5-423d-a96b-26420b5e53fa</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>16MHz</value>
+      <datasheet>https://www.mouser.in/datasheet/2/3/ABL-1774766.pdf</datasheet>
+      <fields>
+        <field name="Part Number">815-ABL-16-B2</field>
+        <field name="Vendor">Mouser</field>
+      </fields>
+      <libsource lib="Arduino Nano" part="crystal_oscillator" description="Cystal 16MHz +/-20ppm!HC 49/US Low Profile "/>
+      <property name="Vendor" value="Mouser"/>
+      <property name="Part Number" value="815-ABL-16-B2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b34cc9a4-837a-4c04-82f2-4440c3ab3810</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="Resistor_1K_1">
+      <description>Resistor Pack 1K +/- 5% 62.5mW 4RES SMD</description>
+      <docs>https://www.mouser.in/datasheet/2/54/chp_a-1858677.pdf</docs>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">Resistor_1K_1</field>
+        <field name="Datasheet">https://www.mouser.in/datasheet/2/54/chp_a-1858677.pdf</field>
+        <field name="Vendor">Mouser</field>
+        <field name="Part Number">652-CHP0805AFX1001EL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="Resistor_1K_4">
+      <description>Resistor Pack 1K +/- 5% 62.5mW 4RES SMD</description>
+      <docs>https://www.mouser.in/datasheet/2/54/chp_a-1858677.pdf</docs>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">Resistor_1K_4</field>
+        <field name="Datasheet">https://www.mouser.in/datasheet/2/54/chp_a-1858677.pdf</field>
+        <field name="Vendor">Mouser</field>
+        <field name="Part Number">652-CHP0805AFX1001EL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="capacitor_0805_1">
+      <description>Capacitor 0.1uF 50V 10% Ceramic X7R 0805</description>
+      <docs>https://www.mouser.in/datasheet/2/212/KEM_C1002_X7R_SMD-1102033.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">capacitor_0805_1</field>
+        <field name="Datasheet">https://www.mouser.in/datasheet/2/212/KEM_C1002_X7R_SMD-1102033.pdf</field>
+        <field name="Vendor">Mouser</field>
+        <field name="Part number">80-C0805C104K5R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="bidirectional"/>
+        <pin num="2" name="" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="capacitor_0805_2">
+      <description>Capacitor 0.1uF 50V 10% Ceramic X7R 0805</description>
+      <docs>https://www.mouser.in/datasheet/2/212/KEM_C1002_X7R_SMD-1102033.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">capacitor_0805_2</field>
+        <field name="Datasheet">https://www.mouser.in/datasheet/2/212/KEM_C1002_X7R_SMD-1102033.pdf</field>
+        <field name="Vendor">Mouser</field>
+        <field name="Part number">80-C0805C104K5R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="bidirectional"/>
+        <pin num="2" name="" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="capacitor_tantalum_1">
+      <description>Capacitor 4.7uF 10V 10% Tantalum Case A </description>
+      <docs>https://www.mouser.in/datasheet/2/212/1/KEM_T2005_T491-1093550.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">capacitor_tantalum_1</field>
+        <field name="Datasheet">https://www.mouser.in/datasheet/2/212/1/KEM_T2005_T491-1093550.pdf</field>
+        <field name="Vendor">Mouser</field>
+        <field name="Part Number">80-T491A475K010</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="bidirectional"/>
+        <pin num="2" name="" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="capacitor_tantalum_2">
+      <description>Capacitor 4.7uF 10V 10% Tantalum Case A </description>
+      <docs>https://www.mouser.in/datasheet/2/212/1/KEM_T2005_T491-1093550.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">capacitor_tantalum_2</field>
+        <field name="Datasheet">https://www.mouser.in/datasheet/2/212/1/KEM_T2005_T491-1093550.pdf</field>
+        <field name="Vendor">Mouser</field>
+        <field name="Part Number">80-T491A475K010</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="bidirectional"/>
+        <pin num="2" name="" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Arduino Nano" part="15-pin_Header">
+      <description>Headers 36PS 1 Row </description>
+      <docs>https://www.mouser.in/datasheet/2/185/doc_1806131501164-2449121.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">15-pin_Header</field>
+        <field name="Datasheet">https://www.mouser.in/datasheet/2/185/doc_1806131501164-2449121.pdf</field>
+        <field name="Vendor">Mouser</field>
+        <field name="Part Number">798-A22PA254DSA71</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="bidirectional"/>
+        <pin num="2" name="2" type="bidirectional"/>
+        <pin num="3" name="3" type="bidirectional"/>
+        <pin num="4" name="4" type="bidirectional"/>
+        <pin num="5" name="5" type="bidirectional"/>
+        <pin num="6" name="6" type="bidirectional"/>
+        <pin num="7" name="7" type="bidirectional"/>
+        <pin num="8" name="8" type="bidirectional"/>
+        <pin num="9" name="9" type="bidirectional"/>
+        <pin num="10" name="10" type="bidirectional"/>
+        <pin num="11" name="11" type="bidirectional"/>
+        <pin num="12" name="12" type="bidirectional"/>
+        <pin num="13" name="13" type="bidirectional"/>
+        <pin num="14" name="14" type="bidirectional"/>
+        <pin num="15" name="15" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Arduino Nano" part="6_pin_header">
+      <description>Headers 72PS 2 Rows </description>
+      <docs>https://www.mouser.in/datasheet/2/185/doc_1806131501164-2449121.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">6_pin_header</field>
+        <field name="Datasheet">https://www.mouser.in/datasheet/2/185/doc_1806131501164-2449121.pdf</field>
+        <field name="Vendor">Mouser</field>
+        <field name="Part Number">798-A22PA254DSA71</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="bidirectional"/>
+        <pin num="2" name="2" type="bidirectional"/>
+        <pin num="3" name="3" type="bidirectional"/>
+        <pin num="4" name="4" type="bidirectional"/>
+        <pin num="5" name="5" type="bidirectional"/>
+        <pin num="6" name="6" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Arduino Nano" part="ATmega168">
+      <description>IC Microcontroller RISC 16kB Flash 0.5kB EEPROM 23 I/O Pins </description>
+      <docs>https://www.mouser.in/datasheet/2/268/Atmel-2545-8-bit-AVR-Microcontroller-ATmega48-88-1-1315326.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ATmega168</field>
+        <field name="Datasheet">https://www.mouser.in/datasheet/2/268/Atmel-2545-8-bit-AVR-Microcontroller-ATmega48-88-1-1315326.pdf</field>
+        <field name="Vendor">Mouser</field>
+        <field name="Part Number">556-ATMEGA168-20AU</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PD3(INT1)" type="bidirectional"/>
+        <pin num="2" name="PD4(T0)" type="bidirectional"/>
+        <pin num="3" name="GND1" type="bidirectional"/>
+        <pin num="4" name="VCC1" type="bidirectional"/>
+        <pin num="5" name="GND2" type="bidirectional"/>
+        <pin num="6" name="VCC2" type="bidirectional"/>
+        <pin num="7" name="PB6(XTAL1)" type="bidirectional"/>
+        <pin num="8" name="PB7(XTAL2)" type="bidirectional"/>
+        <pin num="9" name="PD5(T1)" type="bidirectional"/>
+        <pin num="10" name="PD6(AIN0)" type="bidirectional"/>
+        <pin num="11" name="PD7(AIN1)" type="bidirectional"/>
+        <pin num="12" name="PB0(ICP)" type="bidirectional"/>
+        <pin num="13" name="PB1(OC1)" type="bidirectional"/>
+        <pin num="14" name="PB2(SS)" type="bidirectional"/>
+        <pin num="15" name="PB3(MOSI)" type="bidirectional"/>
+        <pin num="16" name="PB4(MISO)" type="bidirectional"/>
+        <pin num="17" name="PB5(SCK)" type="bidirectional"/>
+        <pin num="18" name="AVCC" type="bidirectional"/>
+        <pin num="19" name="ADC6" type="bidirectional"/>
+        <pin num="20" name="AREF" type="bidirectional"/>
+        <pin num="21" name="AGND" type="bidirectional"/>
+        <pin num="22" name="ADC7" type="bidirectional"/>
+        <pin num="23" name="PC0(ADC0)" type="bidirectional"/>
+        <pin num="24" name="PC1(ADC1)" type="bidirectional"/>
+        <pin num="25" name="PC2(ADC2)" type="bidirectional"/>
+        <pin num="26" name="PC3(ADC3)" type="bidirectional"/>
+        <pin num="27" name="PC4(ADC4)" type="bidirectional"/>
+        <pin num="28" name="PC5(ADC5)" type="bidirectional"/>
+        <pin num="29" name="PC6(RESET)" type="bidirectional"/>
+        <pin num="30" name="PD0(RX)" type="bidirectional"/>
+        <pin num="31" name="PD1(TX)" type="bidirectional"/>
+        <pin num="32" name="PD2(INT0)" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Arduino Nano" part="Capacitor_NOP{slash}COG">
+      <description>Capacitor, 18pF 50V 5%</description>
+      <docs>https://www.mouser.in/datasheet/2/212/KEM_C1003_C0G_SMD-1101588.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">Capacitor_NOP{slash}COG</field>
+        <field name="Datasheet">https://www.mouser.in/datasheet/2/212/KEM_C1003_C0G_SMD-1101588.pdf</field>
+        <field name="Vendor">Mouser</field>
+        <field name="Part Number">80-C0805C180J5G</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="bidirectional"/>
+        <pin num="2" name="" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Arduino Nano" part="Resistor_1K">
+      <description>Resistor Pack 1K +/- 5% 62.5mW 4RES SMD</description>
+      <docs>https://www.mouser.in/datasheet/2/54/chp_a-1858677.pdf</docs>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">Resistor_1K</field>
+        <field name="Datasheet">https://www.mouser.in/datasheet/2/54/chp_a-1858677.pdf</field>
+        <field name="Vendor">Mouser</field>
+        <field name="Part Number">652-CHP0805AFX1001EL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Arduino Nano" part="Schottky_diode">
+      <description>Diode Schottky 0.5A 20V </description>
+      <docs>https://www.mouser.in/datasheet/2/308/1/MBR0520LT1_D-2315148.pdf</docs>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">Schottky_diode</field>
+        <field name="Datasheet">https://www.mouser.in/datasheet/2/308/1/MBR0520LT1_D-2315148.pdf</field>
+        <field name="Vendor">Mouser</field>
+        <field name="Part number">863-MBR0520LT1G</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="bidirectional"/>
+        <pin num="2" name="" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Arduino Nano" part="Switch">
+      <description>Switch Momentary Tact SPST 150gf 3.0x2.5mm</description>
+      <docs>https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3u.pdf</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">Switch</field>
+        <field name="Datasheet">https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3u.pdf</field>
+        <field name="Vendor">Digikey</field>
+        <field name="Part Number">B3U-1000P</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="bidirectional"/>
+        <pin num="2" name="" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Arduino Nano" part="Voltage_regulator">
+      <description>IC Voltage regulator 5V 500mA SOT 223</description>
+      <docs>https://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&amp;gotoUrl=http%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Fua78m</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">Voltage_regulator</field>
+        <field name="Datasheet">https://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&amp;gotoUrl=http%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Fua78m</field>
+        <field name="Vendor">Mouser</field>
+        <field name="Part Number">595-UA78M05CDCYRG3</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="bidirectional"/>
+        <pin num="2" name="GND1" type="bidirectional"/>
+        <pin num="3" name="OUT" type="bidirectional"/>
+        <pin num="4" name="GND2" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Arduino Nano" part="blue_led">
+      <description>LED Super Bright BLUE 80mcd 470nm 110degree 0805</description>
+      <docs>https://www.mouser.in/datasheet/2/239/Lite-On-LTST-C170TBKT-1175372.pdf</docs>
+      <fields>
+        <field name="Reference">LD</field>
+        <field name="Value">blue_led</field>
+        <field name="Datasheet">https://www.mouser.in/datasheet/2/239/Lite-On-LTST-C170TBKT-1175372.pdf</field>
+        <field name="Vendor">Mouser</field>
+        <field name="Part Number">859-LTST-C170TBKT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="bidirectional"/>
+        <pin num="2" name="" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Arduino Nano" part="capacitor_0805">
+      <description>Capacitor 0.1uF 50V 10% Ceramic X7R 0805</description>
+      <docs>https://www.mouser.in/datasheet/2/212/KEM_C1002_X7R_SMD-1102033.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">capacitor_0805</field>
+        <field name="Datasheet">https://www.mouser.in/datasheet/2/212/KEM_C1002_X7R_SMD-1102033.pdf</field>
+        <field name="Vendor">Mouser</field>
+        <field name="Part number">80-C0805C104K5R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="bidirectional"/>
+        <pin num="2" name="" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Arduino Nano" part="capacitor_tantalum">
+      <description>Capacitor 4.7uF 10V 10% Tantalum Case A </description>
+      <docs>https://www.mouser.in/datasheet/2/212/1/KEM_T2005_T491-1093550.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">capacitor_tantalum</field>
+        <field name="Datasheet">https://www.mouser.in/datasheet/2/212/1/KEM_T2005_T491-1093550.pdf</field>
+        <field name="Vendor">Mouser</field>
+        <field name="Part Number">80-T491A475K010</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="bidirectional"/>
+        <pin num="2" name="" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Arduino Nano" part="crystal_oscillator">
+      <description>Cystal 16MHz +/-20ppm!HC 49/US Low Profile </description>
+      <docs>https://www.mouser.in/datasheet/2/3/ABL-1774766.pdf</docs>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">crystal_oscillator</field>
+        <field name="Datasheet">https://www.mouser.in/datasheet/2/3/ABL-1774766.pdf</field>
+        <field name="Vendor">Mouser</field>
+        <field name="Part Number">815-ABL-16-B2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="bidirectional"/>
+        <pin num="2" name="" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Arduino Nano" part="green_led">
+      <description>LED Super Bright GREEN 50mcd 570nm 110degree 0805</description>
+      <docs>https://www.mouser.in/datasheet/2/216/APHCM2012CGCK_F01-34366.pdf</docs>
+      <fields>
+        <field name="Reference">LD</field>
+        <field name="Value">green_led</field>
+        <field name="Datasheet">https://www.mouser.in/datasheet/2/216/APHCM2012CGCK_F01-34366.pdf</field>
+        <field name="Vendor">Mouser</field>
+        <field name="Part Number">APHCM2012CGCK-F01 </field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="bidirectional"/>
+        <pin num="2" name="" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Arduino Nano" part="micro_usb_b">
+      <description>Connector Mini B Recept</description>
+      <docs>https://app.adam-tech.com/products/download/data_sheet/195766/mcr-b-s-ra-tsmt-np-cs4-tr-data-sheet.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">micro_usb_b</field>
+        <field name="Datasheet">https://app.adam-tech.com/products/download/data_sheet/195766/mcr-b-s-ra-tsmt-np-cs4-tr-data-sheet.pdf</field>
+        <field name="vVendor ">digikey</field>
+        <field name="Part number">MCR-B-S-RA-TSMT-NP-CS4-T/R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBUS" type="bidirectional"/>
+        <pin num="2" name="D-" type="bidirectional"/>
+        <pin num="3" name="D+" type="bidirectional"/>
+        <pin num="4" name="ID" type="bidirectional"/>
+        <pin num="5" name="GND" type="bidirectional"/>
+        <pin num="6" name="SH1" type="bidirectional"/>
+        <pin num="7" name="SH2" type="bidirectional"/>
+        <pin num="8" name="SH3" type="bidirectional"/>
+        <pin num="9" name="SH4" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Arduino Nano" part="orange_led">
+      <description>LED Super Bright ORANGE 160mcd 601nm 110degree 0805</description>
+      <docs>https://www.mouser.in/datasheet/2/216/APHCM2012SECK-F01-40967.pdf</docs>
+      <fields>
+        <field name="Reference">LD</field>
+        <field name="Value">orange_led</field>
+        <field name="Datasheet">https://www.mouser.in/datasheet/2/216/APHCM2012SECK-F01-40967.pdf</field>
+        <field name="Vendor">Mouser</field>
+        <field name="Part Number">APHCM2012SECK-F01</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="bidirectional"/>
+        <pin num="2" name="" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Arduino Nano" part="red_led">
+      <description>LED Super Bright RED 100mcd 640nm 120degree 0805</description>
+      <docs>https://www.mouser.in/datasheet/2/216/APT2012SRCPRV-56885.pdf</docs>
+      <fields>
+        <field name="Reference">LD</field>
+        <field name="Value">red_led</field>
+        <field name="Datasheet">https://www.mouser.in/datasheet/2/216/APT2012SRCPRV-56885.pdf</field>
+        <field name="Vendor">Mouser</field>
+        <field name="Part Number">604-APT2012SRCPRV</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="bidirectional"/>
+        <pin num="2" name="" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Arduino Nano" part="usb_to_serial">
+      <description>IC USB to SERIAL UART 28 Pins SSOP</description>
+      <docs>https://www.mouser.in/datasheet/2/163/DS_FT232R-11534.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">usb_to_serial</field>
+        <field name="Datasheet">https://www.mouser.in/datasheet/2/163/DS_FT232R-11534.pdf</field>
+        <field name="Vendor">Mouser</field>
+        <field name="Part Number">895-FT232RL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TXD" type="bidirectional"/>
+        <pin num="2" name="DTR#" type="bidirectional"/>
+        <pin num="3" name="RTS#" type="bidirectional"/>
+        <pin num="4" name="VCCIO" type="bidirectional"/>
+        <pin num="5" name="RXD" type="bidirectional"/>
+        <pin num="6" name="RI#" type="bidirectional"/>
+        <pin num="7" name="GND1" type="bidirectional"/>
+        <pin num="8" name="NC1" type="bidirectional"/>
+        <pin num="9" name="DSR#" type="bidirectional"/>
+        <pin num="10" name="DCD#" type="bidirectional"/>
+        <pin num="11" name="CTS#" type="bidirectional"/>
+        <pin num="12" name="CBUS4" type="bidirectional"/>
+        <pin num="13" name="CBUS2" type="bidirectional"/>
+        <pin num="14" name="CBUS3" type="bidirectional"/>
+        <pin num="15" name="USBDP" type="bidirectional"/>
+        <pin num="16" name="USBDM" type="bidirectional"/>
+        <pin num="17" name="3V3OUT" type="bidirectional"/>
+        <pin num="18" name="GND2" type="bidirectional"/>
+        <pin num="19" name="RESET#" type="bidirectional"/>
+        <pin num="20" name="VCC" type="bidirectional"/>
+        <pin num="21" name="GND3" type="bidirectional"/>
+        <pin num="22" name="CBUS1" type="bidirectional"/>
+        <pin num="23" name="CBUS0" type="bidirectional"/>
+        <pin num="24" name="NC2" type="bidirectional"/>
+        <pin num="25" name="AGND" type="bidirectional"/>
+        <pin num="26" name="TEST" type="bidirectional"/>
+        <pin num="27" name="OSCI" type="bidirectional"/>
+        <pin num="28" name="OSCO" type="bidirectional"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Arduino Nano">
+      <uri>D:\Github\kicad\Arduino Nano/Libraries/Symbols/Arduino Nano.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C1" pin="1" pintype="bidirectional"/>
+      <node ref="C10" pin="2" pintype="bidirectional"/>
+      <node ref="C2" pin="2" pintype="bidirectional"/>
+      <node ref="C6" pin="1" pintype="bidirectional"/>
+      <node ref="C7" pin="1" pintype="bidirectional"/>
+      <node ref="C8" pin="2" pintype="bidirectional"/>
+      <node ref="D1" pin="1" pintype="bidirectional"/>
+      <node ref="D1" pin="2" pintype="bidirectional"/>
+      <node ref="J2" pin="6" pinfunction="6" pintype="bidirectional"/>
+      <node ref="J3" pin="1" pinfunction="1" pintype="bidirectional"/>
+      <node ref="J3" pin="14" pinfunction="14" pintype="bidirectional"/>
+      <node ref="J3" pin="4" pinfunction="4" pintype="bidirectional"/>
+      <node ref="J4" pin="1" pinfunction="VBUS" pintype="bidirectional"/>
+      <node ref="LD3" pin="1" pintype="bidirectional"/>
+      <node ref="LD4" pin="1" pintype="bidirectional"/>
+      <node ref="R1" pin="1" pintype="input"/>
+      <node ref="R2" pin="2" pintype="input"/>
+      <node ref="U1" pin="1" pinfunction="IN" pintype="bidirectional"/>
+      <node ref="U1" pin="3" pinfunction="OUT" pintype="bidirectional"/>
+      <node ref="U2" pin="18" pinfunction="AVCC" pintype="bidirectional"/>
+      <node ref="U2" pin="4" pinfunction="VCC1" pintype="bidirectional"/>
+      <node ref="U2" pin="6" pinfunction="VCC2" pintype="bidirectional"/>
+      <node ref="U3" pin="17" pinfunction="3V3OUT" pintype="bidirectional"/>
+      <node ref="U3" pin="20" pinfunction="VCC" pintype="bidirectional"/>
+      <node ref="U3" pin="4" pinfunction="VCCIO" pintype="bidirectional"/>
+    </net>
+    <net code="2" name="/A0">
+      <node ref="J3" pin="5" pinfunction="5" pintype="bidirectional"/>
+      <node ref="U2" pin="23" pinfunction="PC0(ADC0)" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="/A1">
+      <node ref="J3" pin="6" pinfunction="6" pintype="bidirectional"/>
+      <node ref="U2" pin="24" pinfunction="PC1(ADC1)" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="/A2">
+      <node ref="J3" pin="7" pinfunction="7" pintype="bidirectional"/>
+      <node ref="U2" pin="25" pinfunction="PC2(ADC2)" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="/A3">
+      <node ref="J3" pin="8" pinfunction="8" pintype="bidirectional"/>
+      <node ref="U2" pin="26" pinfunction="PC3(ADC3)" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="/A4">
+      <node ref="J3" pin="9" pinfunction="9" pintype="bidirectional"/>
+      <node ref="U2" pin="27" pinfunction="PC4(ADC4)" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="/A5">
+      <node ref="J3" pin="10" pinfunction="10" pintype="bidirectional"/>
+      <node ref="U2" pin="28" pinfunction="PC5(ADC5)" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/A6">
+      <node ref="J3" pin="11" pinfunction="11" pintype="bidirectional"/>
+      <node ref="U2" pin="19" pinfunction="ADC6" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="/A7">
+      <node ref="J3" pin="12" pinfunction="12" pintype="bidirectional"/>
+      <node ref="U2" pin="22" pinfunction="ADC7" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="/AREF">
+      <node ref="J3" pin="13" pinfunction="13" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="/D0{slash}RX">
+      <node ref="J1" pin="2" pinfunction="2" pintype="bidirectional"/>
+      <node ref="R3" pin="2" pintype="input"/>
+      <node ref="U2" pin="30" pinfunction="PD0(RX)" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="/D1{slash}TX">
+      <node ref="J1" pin="1" pinfunction="1" pintype="bidirectional"/>
+      <node ref="R4" pin="2" pintype="input"/>
+      <node ref="U2" pin="31" pinfunction="PD1(TX)" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="/D2">
+      <node ref="J1" pin="5" pinfunction="5" pintype="bidirectional"/>
+      <node ref="U2" pin="32" pinfunction="PD2(INT0)" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="/D3">
+      <node ref="J1" pin="6" pinfunction="6" pintype="bidirectional"/>
+      <node ref="U2" pin="1" pinfunction="PD3(INT1)" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="/D4">
+      <node ref="J1" pin="7" pinfunction="7" pintype="bidirectional"/>
+      <node ref="U2" pin="2" pinfunction="PD4(T0)" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="/D5">
+      <node ref="J1" pin="8" pinfunction="8" pintype="bidirectional"/>
+      <node ref="U2" pin="9" pinfunction="PD5(T1)" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="/D6">
+      <node ref="J1" pin="9" pinfunction="9" pintype="bidirectional"/>
+      <node ref="U2" pin="10" pinfunction="PD6(AIN0)" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="/D7">
+      <node ref="J1" pin="10" pinfunction="10" pintype="bidirectional"/>
+      <node ref="U2" pin="11" pinfunction="PD7(AIN1)" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="/D8">
+      <node ref="J1" pin="11" pinfunction="11" pintype="bidirectional"/>
+      <node ref="U2" pin="12" pinfunction="PB0(ICP)" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="/D9">
+      <node ref="J1" pin="12" pinfunction="12" pintype="bidirectional"/>
+      <node ref="U2" pin="13" pinfunction="PB1(OC1)" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="/D10">
+      <node ref="J1" pin="13" pinfunction="13" pintype="bidirectional"/>
+      <node ref="U2" pin="14" pinfunction="PB2(SS)" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="/D11{slash}MOSI">
+      <node ref="J1" pin="14" pinfunction="14" pintype="bidirectional"/>
+      <node ref="J2" pin="5" pinfunction="5" pintype="bidirectional"/>
+      <node ref="U2" pin="15" pinfunction="PB3(MOSI)" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="/D12{slash}MISO">
+      <node ref="J1" pin="15" pinfunction="15" pintype="bidirectional"/>
+      <node ref="J2" pin="1" pinfunction="1" pintype="bidirectional"/>
+      <node ref="U2" pin="16" pinfunction="PB4(MISO)" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="/D13{slash}MOSI">
+      <node ref="J2" pin="2" pinfunction="2" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="/D13{slash}SCK">
+      <node ref="J3" pin="15" pinfunction="15" pintype="bidirectional"/>
+      <node ref="R5" pin="1" pintype="input"/>
+      <node ref="U2" pin="17" pinfunction="PB5(SCK)" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="/RESET">
+      <node ref="C9" pin="2" pintype="bidirectional"/>
+      <node ref="J1" pin="3" pinfunction="3" pintype="bidirectional"/>
+      <node ref="J2" pin="3" pinfunction="3" pintype="bidirectional"/>
+      <node ref="J3" pin="3" pinfunction="3" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="/RX">
+      <node ref="R3" pin="1" pintype="input"/>
+      <node ref="U3" pin="1" pinfunction="TXD" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="/TX">
+      <node ref="R4" pin="1" pintype="input"/>
+      <node ref="U3" pin="5" pinfunction="RXD" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="GND">
+      <node ref="C1" pin="2" pintype="bidirectional"/>
+      <node ref="C10" pin="1" pintype="bidirectional"/>
+      <node ref="C2" pin="1" pintype="bidirectional"/>
+      <node ref="C3" pin="1" pintype="bidirectional"/>
+      <node ref="C4" pin="1" pintype="bidirectional"/>
+      <node ref="C5" pin="1" pintype="bidirectional"/>
+      <node ref="C6" pin="2" pintype="bidirectional"/>
+      <node ref="C7" pin="2" pintype="bidirectional"/>
+      <node ref="C8" pin="1" pintype="bidirectional"/>
+      <node ref="J1" pin="4" pinfunction="4" pintype="bidirectional"/>
+      <node ref="J2" pin="4" pinfunction="4" pintype="bidirectional"/>
+      <node ref="J3" pin="2" pinfunction="2" pintype="bidirectional"/>
+      <node ref="J4" pin="5" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="J4" pin="6" pinfunction="SH1" pintype="bidirectional"/>
+      <node ref="J4" pin="7" pinfunction="SH2" pintype="bidirectional"/>
+      <node ref="J4" pin="8" pinfunction="SH3" pintype="bidirectional"/>
+      <node ref="J4" pin="9" pinfunction="SH4" pintype="bidirectional"/>
+      <node ref="LD1" pin="2" pintype="bidirectional"/>
+      <node ref="LD2" pin="2" pintype="bidirectional"/>
+      <node ref="SW1" pin="1" pintype="bidirectional"/>
+      <node ref="U1" pin="2" pinfunction="GND1" pintype="bidirectional"/>
+      <node ref="U1" pin="4" pinfunction="GND2" pintype="bidirectional"/>
+      <node ref="U2" pin="21" pinfunction="AGND" pintype="bidirectional"/>
+      <node ref="U2" pin="3" pinfunction="GND1" pintype="bidirectional"/>
+      <node ref="U2" pin="5" pinfunction="GND2" pintype="bidirectional"/>
+      <node ref="U3" pin="18" pinfunction="GND2" pintype="bidirectional"/>
+      <node ref="U3" pin="21" pinfunction="GND3" pintype="bidirectional"/>
+      <node ref="U3" pin="25" pinfunction="AGND" pintype="bidirectional"/>
+      <node ref="U3" pin="7" pinfunction="GND1" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="Net-(C3-Pad2)">
+      <node ref="C3" pin="2" pintype="bidirectional"/>
+      <node ref="U2" pin="7" pinfunction="PB6(XTAL1)" pintype="bidirectional"/>
+      <node ref="Y1" pin="1" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="Net-(C4-Pad2)">
+      <node ref="C4" pin="2" pintype="bidirectional"/>
+      <node ref="U2" pin="8" pinfunction="PB7(XTAL2)" pintype="bidirectional"/>
+      <node ref="Y1" pin="2" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="Net-(C5-Pad2)">
+      <node ref="C5" pin="2" pintype="bidirectional"/>
+      <node ref="U2" pin="20" pinfunction="AREF" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="Net-(C9-Pad1)">
+      <node ref="C9" pin="1" pintype="bidirectional"/>
+      <node ref="U3" pin="2" pinfunction="DTR#" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="Net-(J4-Pad2)">
+      <node ref="J4" pin="2" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="U3" pin="16" pinfunction="USBDM" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="Net-(J4-Pad3)">
+      <node ref="J4" pin="3" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="U3" pin="15" pinfunction="USBDP" pintype="bidirectional"/>
+    </net>
+    <net code="36" name="Net-(LD1-Pad1)">
+      <node ref="LD1" pin="1" pintype="bidirectional"/>
+      <node ref="R1" pin="2" pintype="input"/>
+    </net>
+    <net code="37" name="Net-(LD2-Pad1)">
+      <node ref="LD2" pin="1" pintype="bidirectional"/>
+      <node ref="R5" pin="2" pintype="input"/>
+    </net>
+    <net code="38" name="Net-(LD3-Pad2)">
+      <node ref="LD3" pin="2" pintype="bidirectional"/>
+      <node ref="R6" pin="2" pintype="input"/>
+    </net>
+    <net code="39" name="Net-(LD4-Pad2)">
+      <node ref="LD4" pin="2" pintype="bidirectional"/>
+      <node ref="R7" pin="2" pintype="input"/>
+    </net>
+    <net code="40" name="Net-(R2-Pad1)">
+      <node ref="R2" pin="1" pintype="input"/>
+      <node ref="SW1" pin="2" pintype="bidirectional"/>
+      <node ref="U2" pin="29" pinfunction="PC6(RESET)" pintype="bidirectional"/>
+    </net>
+    <net code="41" name="Net-(R6-Pad1)">
+      <node ref="R6" pin="1" pintype="input"/>
+      <node ref="U3" pin="23" pinfunction="CBUS0" pintype="bidirectional"/>
+    </net>
+    <net code="42" name="Net-(R7-Pad1)">
+      <node ref="R7" pin="1" pintype="input"/>
+      <node ref="U3" pin="22" pinfunction="CBUS1" pintype="bidirectional"/>
+    </net>
+    <net code="43" name="unconnected-(J4-Pad4)">
+      <node ref="J4" pin="4" pinfunction="ID" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="44" name="unconnected-(U3-Pad3)">
+      <node ref="U3" pin="3" pinfunction="RTS#" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="45" name="unconnected-(U3-Pad6)">
+      <node ref="U3" pin="6" pinfunction="RI#" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="46" name="unconnected-(U3-Pad8)">
+      <node ref="U3" pin="8" pinfunction="NC1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="47" name="unconnected-(U3-Pad9)">
+      <node ref="U3" pin="9" pinfunction="DSR#" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="48" name="unconnected-(U3-Pad10)">
+      <node ref="U3" pin="10" pinfunction="DCD#" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="49" name="unconnected-(U3-Pad11)">
+      <node ref="U3" pin="11" pinfunction="CTS#" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="50" name="unconnected-(U3-Pad12)">
+      <node ref="U3" pin="12" pinfunction="CBUS4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="51" name="unconnected-(U3-Pad13)">
+      <node ref="U3" pin="13" pinfunction="CBUS2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="52" name="unconnected-(U3-Pad14)">
+      <node ref="U3" pin="14" pinfunction="CBUS3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="53" name="unconnected-(U3-Pad19)">
+      <node ref="U3" pin="19" pinfunction="RESET#" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="54" name="unconnected-(U3-Pad24)">
+      <node ref="U3" pin="24" pinfunction="NC2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="55" name="unconnected-(U3-Pad26)">
+      <node ref="U3" pin="26" pinfunction="TEST" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="56" name="unconnected-(U3-Pad27)">
+      <node ref="U3" pin="27" pinfunction="OSCI" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="57" name="unconnected-(U3-Pad28)">
+      <node ref="U3" pin="28" pinfunction="OSCO" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>
